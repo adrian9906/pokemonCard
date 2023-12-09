@@ -1,3 +1,4 @@
+
 This is an application developed with NodeJS and NextJS where a list of pokemon is shown
 
 ## Getting Started
@@ -22,3 +23,4 @@ npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+=======
